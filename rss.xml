@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Landor7]]></title>
         <description><![CDATA[Landor7]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/landor7/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 14:34:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 14:34:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/landor7/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>WE AT LANDOR7 BELIEVE IN VALUES, WE DRIVE ON CREATIVITY AND WE FOCUS ON INSPIRATION AND INNOVATION.</p>]]></description>
+            <link>https://thegrid.ai/landor7/we-at-landor7-believe-in-values-we-drive-on-creativity-and/index.html</link>
+            <guid isPermaLink="false">11526876-37af-49f5-9152-3d6d5d1799a7</guid>
+            <pubDate>Mon, 04 Apr 2016 14:34:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec4d6caa-3a34-4d21-9bf2-ab3cf83d829a.jpg">]]></description>
-            <link>undefinedcd2d501d-a2fc-4fcb-a613-ba61c1185dca/index.html</link>
+            <link>https://thegrid.ai/landor7/cd2d501d-a2fc-4fcb-a613-ba61c1185dca/index.html</link>
             <guid isPermaLink="false">cd2d501d-a2fc-4fcb-a613-ba61c1185dca</guid>
             <pubDate>Mon, 04 Apr 2016 14:34:12 GMT</pubDate>
         </item>
